@@ -1,0 +1,10 @@
+* cl-octet-streams
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/glv/cl-octet-streams.git   |
+| commit  |   |
+| systems | cl-octet-streams |
+|---------+-------------------------------------------|
+
