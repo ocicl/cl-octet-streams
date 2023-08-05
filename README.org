@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/glv/cl-octet-streams.git   |
-| commit  |   |
-| systems | cl-octet-streams |
-|---------+-------------------------------------------|
+f461922---------+-------------------------------------------|
+f461922 source  | git:https://codeberg.org/glv/cl-octet-streams.git   |
+f461922 commit  |   |
+f461922 systems | cl-octet-streams |
+f461922---------+-------------------------------------------|
 
