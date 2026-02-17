@@ -2,9 +2,10 @@
 
 In-memory octet streams for Common Lisp
 
-|---------+----------------------------------------------------------|
-| source  | git:https://codeberg.org/glv/cl-octet-streams.git       |
-| commit  | e4c8afe                                                  |
-| systems | cl-octet-streams                                         |
-|---------+----------------------------------------------------------|
+|---------+---------------------------------------------------|
+| source  | git:https://codeberg.org/glv/cl-octet-streams.git |
+| commit  | f461922                                           |
+| systems | cl-octet-streams                                  |
+|---------+---------------------------------------------------|
+--------------------------------|
 
